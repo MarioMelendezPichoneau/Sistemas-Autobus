@@ -1,0 +1,38 @@
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Permissions.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Permissions.xml
+C:\Users\Dell\source\repos\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Mario MP\Desktop\programacion\Sistemas Autobus\CapaDato\obj\Debug\CapaDato.pdb
